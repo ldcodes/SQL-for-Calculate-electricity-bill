@@ -1,2 +1,2 @@
 # sql
-ten plsql for Calculate electricity bill
+ten sql,five plsql for Calculate electricity bill
